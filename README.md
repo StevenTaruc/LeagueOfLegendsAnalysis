@@ -1,2 +1,2 @@
-# Analysis of League of Legends Games
+# Predicting Win Probability in League of Legends Matches
 by Steven Taruc and Josiah Lashley 
